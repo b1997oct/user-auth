@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/Task 1
 /.pnp
 .pnp.*
 .yarn/*
